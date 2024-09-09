@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://niozwh.github.io/XDz/sitemap.XDz.gz
